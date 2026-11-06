@@ -1,64 +1,65 @@
 
-
 <div align="center">
 
-## Hi there, I'm Sergey 👋
+# Hi there, I'm Sergey! 👋
 
-**Web Developer & UI Designer**
+### 💻 Web Developer | 🎨 UI Designer
 
-<a href="https://github.com/Sportylink5?tab=repositories">
-  <img src="https://img.shields.io/badge/My_Projects-0969DA?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/Sportylink5/RNDM2.0">
-  <img src="https://img.shields.io/badge/RNDM_Chat-0969DA?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/Sportylink5/RNDM">
-  <img src="https://img.shields.io/badge/RNDM-0969DA?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Создаю современные сайты, веб-приложения
+и удобные пользовательские интерфейсы.
+
+**[Мои проекты](https://github.com/Sportylink5?tab=repositories)** · **[RNDM Chat](https://github.com/Sportylink5/RNDM2.0)** · **[GitHub](https://github.com/Sportylink5)**
 
 </div>
 
 ---
 
-### 👨‍💻 About me
+## 👨‍💻 About me
 
-- 💻 I create websites, web apps and interactive interfaces.
-- 🚀 I'm developing **RNDM Chat**, a social platform and messenger.
-- 🛠️ I explore automation, modern web technologies and UI design.
-- 🎨 I enjoy combining design, programming and creativity.
+- 💻 Разрабатываю сайты и веб-приложения.
+- 🎨 Занимаюсь веб-дизайном и UI/UX.
+- 🚀 Работаю над RNDM Chat — мессенджером и социальной платформой.
+- 🛠️ Изучаю новые веб-технологии и автоматизацию.
+- 📚 Постоянно совершенствую навыки программирования.
 
-### 🛠️ Languages and tools
+## 🛠️ Languages and Tools
 
-<div align="center">
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,supabase,git,github,vscode,figma&perline=6" />
+`HTML5` · `CSS3` · `JavaScript`
 
-</div>
+**Backend & Database**
 
-### 📊 My GitHub stats
+`Python` · `Supabase` · `SQL`
 
-<div align="center">
+**Development Tools**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sportylink5&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+`Git` · `GitHub` · `VS Code` · `Figma`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sportylink5&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+---
 
-</div>
+## 📊 My GitHub Activity
 
-### 🚀 Featured projects
+📈 [Посмотреть активность и достижения](https://github.com/Sportylink5)
 
-| Project | Description |
-| :--- | :--- |
-| 💬 [RNDM Chat 2.0](https://github.com/Sportylink5/RNDM2.0) | Social platform and web messenger |
-| 🔀 [RNDM](https://github.com/Sportylink5/RNDM) | Random chat project |
-| 🧪 [It-start](https://github.com/Sportylink5/It-start) | Learning projects and experiments |
+💻 [Все мои репозитории](https://github.com/Sportylink5?tab=repositories)
+
+---
+
+## 🚀 Featured Projects
+
+| Проект | Описание |
+|---|---|
+| 💬 [RNDM Chat 2.0](https://github.com/Sportylink5/RNDM2.0) | Мессенджер и социальная сеть |
+| 🔀 [RNDM](https://github.com/Sportylink5/RNDM) | Проект случайного чата |
+| 🧪 [It-start](https://github.com/Sportylink5/It-start) | Учебные проекты |
 
 ---
 
 <div align="center">
 
-**Thanks for visiting my profile! 🚀**
+### Thanks for visiting my profile! 🚀
 
-<img src="https://komarev.com/ghpvc/?username=Sportylink5&color=0969DA&style=flat-square&label=Profile+Views" />
+**HTML · CSS · JavaScript · Python**
 
 </div>

@@ -1,9 +1,10 @@
 
+
 <div align="center">
 
 ## Hi there, I'm Sergey 👋
 
-**Web Developer & Game Creator**
+**Web Developer & UI Designer**
 
 <a href="https://github.com/Sportylink5?tab=repositories">
   <img src="https://img.shields.io/badge/My_Projects-0969DA?style=for-the-badge&logo=github&logoColor=white" />
@@ -22,16 +23,15 @@
 ### 👨‍💻 About me
 
 - 💻 I create websites, web apps and interactive interfaces.
-- 🎮 I develop games and prototypes in **Unreal Engine 5**.
 - 🚀 I'm developing **RNDM Chat**, a social platform and messenger.
-- 🛠️ I explore game development, automation and web technologies.
+- 🛠️ I explore automation, modern web technologies and UI design.
 - 🎨 I enjoy combining design, programming and creativity.
 
 ### 🛠️ Languages and tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,unreal,blender,supabase,git,github,vscode,figma&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,supabase,git,github,vscode,figma&perline=6" />
 
 </div>
 
@@ -42,8 +42,6 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sportylink5&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sportylink5&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sportylink5&theme=github-dark&hide_border=true&area=true" />
 
 </div>
 
